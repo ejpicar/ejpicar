@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello! I'm Ethan, a web developer hobbyist primarily focusing in Svelte/Typescript.
+# 👋 Hello!
+✨ I'm Ethan, a web developer hobbyist primarily focusing in Svelte/Typescript.
 
 
 # 💻 Tech Stack:
@@ -8,8 +8,5 @@ Hello! I'm Ethan, a web developer hobbyist primarily focusing in Svelte/Typescri
 ![](https://github-readme-stats.shion.dev/api?username=ejpicar&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ejpicar&theme=ayu-mirage&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ejpicar&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=ejpicar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
