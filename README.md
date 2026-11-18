@@ -1,5 +1,5 @@
 # 👋 Hello!
-✨ I'm Ethan, an Electrical Engineering Student with a background in web development.
+✨ I'm Ethan, an Electrical Engineering Student with a background in web development.\
 🛠️ Currently interested in Embedded Systems, Microcontrollers, and Power Systems. Always striving to learn and build projects to expand my technical skills!
 
 
