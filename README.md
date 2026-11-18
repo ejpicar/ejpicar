@@ -1,5 +1,6 @@
 # 👋 Hello!
-✨ I'm Ethan, a web developer hobbyist primarily focusing in Svelte/Typescript.
+✨ I'm Ethan, an Electrical Engineering Student with a background in web development.
+🛠️ Currently interested in Embedded Systems, Microcontrollers, and Power Systems. Always striving to learn and build projects to expand my technical skills!
 
 
 # 💻 Tech Stack:
